@@ -1,4 +1,4 @@
-### vic-hadoop
+# vic-hadoop
 
 Docker image for running a single-node Hadoop instance on [vSphere Integrated Containers](https://github.com/vmware/vic).
 
