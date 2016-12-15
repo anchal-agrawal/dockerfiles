@@ -1,6 +1,6 @@
 # vic-hadoop
 
-Docker image for running a single-node Hadoop instance on [vSphere Integrated Containers](https://github.com/vmware/vic).
+Docker image for running a single-node Hadoop 2.7.2 instance on [vSphere Integrated Containers](https://github.com/vmware/vic).
 
 ## Running
 
